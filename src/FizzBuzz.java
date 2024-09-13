@@ -3,7 +3,7 @@
  */
 class FizzBuzz {
 
-    public static void main() {
+    public static void main(){
 
         int i = 1;
         while(i++ < 100) {
